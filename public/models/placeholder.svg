@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img" aria-label="Нет превью">
+  <g fill="none" stroke="#d8d8d8" stroke-width="2">
+    <rect x="1" y="1" width="638" height="398" />
+    <rect x="24" y="24" width="592" height="352" stroke-dasharray="8 8" />
+    <path d="M232 262 L232 214 C232 206 238 200 246 200 L268 200 L292 172 L330 172 C338 172 344 178 348 184 L362 204 L388 210 C404 214 414 226 414 242 L414 262 Z" />
+    <path d="M246 238 L400 238" stroke-dasharray="4 6" />
+  </g>
+  <g fill="#b2b2b2" font-family="Bahnschrift, 'Segoe UI', sans-serif" text-anchor="middle">
+    <text x="320" y="308" font-size="16" letter-spacing="3">НЕТ ПРЕВЬЮ</text>
+    <text x="320" y="332" font-size="11" letter-spacing="2">ДОБАВЬТЕ ИЗОБРАЖЕНИЕ В РЕДАКТОРЕ</text>
+  </g>
+</svg>
